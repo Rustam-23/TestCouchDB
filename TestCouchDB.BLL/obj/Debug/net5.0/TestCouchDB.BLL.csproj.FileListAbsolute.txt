@@ -1,0 +1,15 @@
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\bin\Debug\net5.0\TestCouchDB.BLL.deps.json
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\bin\Debug\net5.0\TestCouchDB.BLL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\bin\Debug\net5.0\ref\TestCouchDB.BLL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\bin\Debug\net5.0\TestCouchDB.BLL.pdb
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\bin\Debug\net5.0\TestCouchDB.DAL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\bin\Debug\net5.0\TestCouchDB.DAL.pdb
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.csproj.AssemblyReference.cache
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.AssemblyInfoInputs.cache
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.AssemblyInfo.cs
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.csproj.CoreCompileInputs.cache
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.csproj.CopyComplete
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\ref\TestCouchDB.BLL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.BLL\obj\Debug\net5.0\TestCouchDB.BLL.pdb

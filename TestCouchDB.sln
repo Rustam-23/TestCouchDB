@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCouchDB", "TestCouchDB\TestCouchDB.csproj", "{5B9BBB93-4F6F-4685-BCC2-8A8A6BE69771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCouchDB.BLL", "TestCouchDB.BLL\TestCouchDB.BLL.csproj", "{6DA01695-ACFF-463E-99C3-5C1489D15364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCouchDB.DAL", "TestCouchDB.DAL\TestCouchDB.DAL.csproj", "{21DB7FC5-BE40-4965-9706-2B1086BC727A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9BBB93-4F6F-4685-BCC2-8A8A6BE69771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9BBB93-4F6F-4685-BCC2-8A8A6BE69771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9BBB93-4F6F-4685-BCC2-8A8A6BE69771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9BBB93-4F6F-4685-BCC2-8A8A6BE69771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA01695-ACFF-463E-99C3-5C1489D15364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA01695-ACFF-463E-99C3-5C1489D15364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA01695-ACFF-463E-99C3-5C1489D15364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA01695-ACFF-463E-99C3-5C1489D15364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DB7FC5-BE40-4965-9706-2B1086BC727A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DB7FC5-BE40-4965-9706-2B1086BC727A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DB7FC5-BE40-4965-9706-2B1086BC727A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DB7FC5-BE40-4965-9706-2B1086BC727A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

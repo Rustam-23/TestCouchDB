@@ -1,0 +1,12 @@
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\TestCouchDB.DAL.csproj.AssemblyReference.cache
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\TestCouchDB.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\TestCouchDB.DAL.AssemblyInfoInputs.cache
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\TestCouchDB.DAL.AssemblyInfo.cs
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\TestCouchDB.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\bin\Debug\net5.0\TestCouchDB.DAL.deps.json
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\bin\Debug\net5.0\TestCouchDB.DAL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\bin\Debug\net5.0\ref\TestCouchDB.DAL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\bin\Debug\net5.0\TestCouchDB.DAL.pdb
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\TestCouchDB.DAL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\ref\TestCouchDB.DAL.dll
+C:\Users\rizmailov\RiderProjects\TestCouchDB\TestCouchDB.DAL\obj\Debug\net5.0\TestCouchDB.DAL.pdb

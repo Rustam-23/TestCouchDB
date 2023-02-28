@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybtcGmFnfc8XhZVsYK695mbVhRmdUJf08OKNJunhod0k4VqbXcBYjQRmoh9FT282jlhHf5LQw0SxJ2kvPBOM+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rizmailov\\RiderProjects\\TestCouchDB\\TestCouchDB.BLL\\TestCouchDB.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rizmailov\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\couchdb.net\\3.3.1\\couchdb.net.3.3.1.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\flurl\\3.0.2\\flurl.3.0.2.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\flurl.http\\3.2.0\\flurl.http.3.2.0.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\rizmailov\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
